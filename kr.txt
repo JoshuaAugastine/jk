@@ -1,1 +1,3 @@
 hi this is kr txt file :
+welcome to git respository
+1234568
